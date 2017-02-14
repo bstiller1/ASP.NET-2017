@@ -1,5 +1,5 @@
---temp-output:c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\obj\Debug\netcoreapp1.0\
---out:c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\bin\Debug\netcoreapp1.0\WebApplication3.dll
+--temp-output:C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\obj\Debug\netcoreapp1.0\
+--out:C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\bin\Debug\netcoreapp1.0\WebApplication3.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -196,9 +196,9 @@
 --reference:C:\Users\INSTRUCTOR\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\INSTRUCTOR\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\INSTRUCTOR\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\obj\Debug\netcoreapp1.0\WebApplication3dotnet-compile.deps.json",WebApplication3.deps.json
-c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\Program.cs
-c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\Startup.cs
-c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\Controllers\HomeController.cs
-c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\Models\GuestResponse.cs
-c:\users\instructor\documents\visual studio 2015\Projects\WebApplication3\src\WebApplication3\Models\Repository.cs
+--resource:"C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\obj\Debug\netcoreapp1.0\WebApplication3dotnet-compile.deps.json",WebApplication3.deps.json
+C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\Program.cs
+C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\Startup.cs
+C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\Controllers\HomeController.cs
+C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\Models\GuestResponse.cs
+C:\Users\INSTRUCTOR\Documents\Visual Studio 2015\Projects\WebApplication3\src\WebApplication3\Models\Repository.cs

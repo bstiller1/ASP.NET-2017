@@ -11,7 +11,7 @@ namespace WebApplication3.Models
         [Required(ErrorMessage = "Please enter your name")]
         public string Name { get; set; }
         [Required(ErrorMessage = "Please enter your email address")]
-        [RegularExpression(".+\\@.+\\..+",
+        [RegularExpression(@".+@.+..+",
             ErrorMessage = "Please enter a valid email address")]
         public string Email { get; set; }
         [Required(ErrorMessage = "Please enter your phone number")]
